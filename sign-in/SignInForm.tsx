@@ -11,7 +11,7 @@ export function SignInForm(){
 
         }}>
             <div>
-            <input type="email" className="border w-full" placeholder="이메일"></input>
+            <input type="email" className="border w-full" placeholder="이메일입력"></input>
             </div>
             <div>
             <input type="password" className="border w-full" placeholder="비밀번호"></input>
